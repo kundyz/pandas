@@ -11,7 +11,7 @@ Task
 * Percentage and Count of Female Players
 * Percentage and Count of Other/Non-Disclosed
 * The below each broken by gender:
-** Purchase Count
+  * Purchase Count
 ** Average Purchase Price
 ** Total Purchase Value
 ** Average Purchase Total per Person by Gender
