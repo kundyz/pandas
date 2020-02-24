@@ -1,2 +1,2 @@
 # Heroes of Pymoli
-![logo](/Heroes of Pymoli/images/logo.jpg)
+![logo](/pandas/Heroes of Pymoli/images/logo.jpg)
