@@ -43,7 +43,7 @@ Task
 
 Task
 * Create a high level snapshot (in table form) of the district's key metrics, including:
- * Total Schools
+  * Total Schools
  * Total Students
  * Total Budget
  * Average Math Score
